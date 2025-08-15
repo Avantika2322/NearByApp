@@ -1,3 +1,5 @@
 UIKit
 
 MapKit
+
+NearByPlaces
